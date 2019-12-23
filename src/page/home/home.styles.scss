@@ -1,0 +1,11 @@
+.homePage {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    padding: 20px 40px;
+    .searchBar {
+        border: 1px solid;
+        padding: 15px;
+        margin-bottom: 10px;
+    }
+}
